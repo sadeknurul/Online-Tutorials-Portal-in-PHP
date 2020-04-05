@@ -1,0 +1,58 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.header{
+	width:100%;
+	background-color:#5c6bc0;
+	padding: 10px 0px;
+}
+.logo{
+	width:110px;
+	float:left
+}
+.logo img{
+	height:90px;
+	width:90px;
+	border-radius:50%;
+}
+.header h2,.header p{
+	color:#fff;
+	margin-left:10px;
+}
+nav{
+	width:100%;
+	background-color:#7986cb;
+}
+nav ul li a{
+	color:#fff;
+}
+nav button{
+	margin-right:10px;
+}
+.margin-top-20{
+	margin-top:20px;
+}
+.footer{
+	width:100%;
+	background-color:#5c6bc0;
+	padding: 5px 0px;
+	color:#fff;
+}
+
+.container .col-md-4{
+	margin-bottom:10px;
+}
+.container .col-md-5 img{
+	width:100%;
+}
+.card img{
+	height:200px;
+}
+
+
+
+
+
+
